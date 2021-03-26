@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on openCV project.
-- 🌱 I’m currently learning python,swift,C++,PHP,CSS,HTML and Illustration.<!-- 👯 I’m looking to collaborate on ...-->
-- 🤔 I’m looking for help with openCV.
-- 💬 Ask me about Nothing😅.<!--- 📫 How to reach me: ...-->
+- 🔭 I’m currently working on Operating System project.
+- 🌱 I’m currently learning python,swift,C/C++,PHP,CSS,HTML,Java,ALP and Illustration.<!-- 👯 I’m looking to collaborate on ...-->
+- 🤔 I’m looking for help with ALP.
+- 💬 Ask me about Web Developing😅.<!--- 📫 How to reach me: ...-->
 - 😄 Pronouns: You can call my name itself😁
 - ⚡ Fun fact: New to Github!!!
 

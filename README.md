@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Operating System project.
+- 🔭 I’m currently working on Parallel & Distributed Computing project.
 - 🌱 I’m currently learning python,swift,C/C++,PHP,CSS,HTML,Java,ALP and Illustration.<!-- 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with ALP.
 - 💬 Ask me about Web Developing😅.<!--- 📫 How to reach me: ...-->

@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: You can call my name itself😁
 - ⚡ Fun fact: New to Github!!!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=suriya-1403.XV6)
+![Visitors](https://komarev.com/ghpvc/?username=suriya-1403&label=Visitors&style=plastic&color=e63946)
